@@ -1,4 +1,7 @@
 # battle
 
-Developing a python Game
-yet it does'nt have any certain name but soon it will...
+Developing a python Game called Battle
+
+Soon I will pour more info about technologies, how to use etc.
+
+Loading...
