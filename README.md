@@ -1,4 +1,4 @@
-# play-ground
+# battle
 
-Developing a python Project
+Developing a python Game
 yet it does'nt have any certain name but soon it will...
